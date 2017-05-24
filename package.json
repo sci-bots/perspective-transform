@@ -1,0 +1,80 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "sci-bots-perspective-transform",
+        "scope": null,
+        "escapedName": "sci-bots-perspective-transform",
+        "name": "sci-bots-perspective-transform",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\lucaszw\\Documents\\SciBots\\libs"
+    ]
+  ],
+  "_from": "sci-bots-perspective-transform@latest",
+  "_id": "sci-bots-perspective-transform@1.0.0",
+  "_inCache": true,
+  "_location": "/sci-bots-perspective-transform",
+  "_nodeVersion": "7.10.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/sci-bots-perspective-transform-1.0.0.tgz_1495183960559_0.8703575963154435"
+  },
+  "_npmUser": {
+    "name": "sci-bots",
+    "email": "info@sci-bots.com"
+  },
+  "_npmVersion": "4.2.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "sci-bots-perspective-transform",
+    "scope": null,
+    "escapedName": "sci-bots-perspective-transform",
+    "name": "sci-bots-perspective-transform",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/sci-bots-perspective-transform/-/sci-bots-perspective-transform-1.0.0.tgz",
+  "_shasum": "63a14cf32e092e0cdf2c61f65c5f741231ea07da",
+  "_shrinkwrap": null,
+  "_spec": "sci-bots-perspective-transform",
+  "_where": "C:\\Users\\lucaszw\\Documents\\SciBots\\libs",
+  "author": {
+    "name": "Sci-Bots"
+  },
+  "dependencies": {
+    "numeric": "^1.2.6"
+  },
+  "description": "",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "63a14cf32e092e0cdf2c61f65c5f741231ea07da",
+    "tarball": "https://registry.npmjs.org/sci-bots-perspective-transform/-/sci-bots-perspective-transform-1.0.0.tgz"
+  },
+  "license": "MIT",
+  "main": "PerspectiveTransform.js",
+  "maintainers": [
+    {
+      "name": "sci-bots",
+      "email": "info@sci-bots.com"
+    }
+  ],
+  "name": "sci-bots-perspective-transform",
+  "optionalDependencies": {},
+  "readme": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sci-bots/perspective-transform"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
